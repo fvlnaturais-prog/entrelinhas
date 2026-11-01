@@ -1,0 +1,12 @@
+ENTRELINHAS - PUBLICAÇÃO PARA IPHONE
+
+Arquivos:
+- index.html: aplicativo principal
+- manifest.webmanifest: identificação da instalação
+- sw.js: cache para funcionamento offline após a primeira visita
+- icon.svg: ícone
+
+Para publicar, envie TODOS os arquivos mantendo-os juntos na mesma pasta/raiz de hospedagem HTTPS.
+Depois abra o endereço no Safari, aguarde carregar uma vez com internet e use Compartilhar > Adicionar à Tela de Início.
+
+Os dados ficam no armazenamento local do navegador/aplicativo. Não há sincronização entre aparelhos.

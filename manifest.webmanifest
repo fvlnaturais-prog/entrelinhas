@@ -1,0 +1,13 @@
+{
+  "name": "Entrelinhas - Agenda",
+  "short_name": "Entrelinhas",
+  "description": "Agenda pessoal com tarefas, calendário e diário.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ff",
+  "theme_color": "#f5f3ff",
+  "icons": [
+    {"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
